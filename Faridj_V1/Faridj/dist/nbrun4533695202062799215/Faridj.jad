@@ -1,0 +1,8 @@
+MIDlet-1: FARIDJ,/img/sn.png,Faridj
+MIDlet-Jar-Size: 213853
+MIDlet-Jar-URL: Faridj.jar
+MIDlet-Name: Faridj
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

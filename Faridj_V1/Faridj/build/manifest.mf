@@ -1,0 +1,7 @@
+MIDlet-1: FARIDJ,/img/mes.png,Faridj
+MIDlet-Vendor: xadimouSALIH(xadimousalihe@gmail.com)
+MIDlet-Name: Faridj
+MIDlet-Description: Oeuvre de Cheikh Ahmadou Bamba KHADIMOU RASSOUL
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-1.0
